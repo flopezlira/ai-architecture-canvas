@@ -10,6 +10,9 @@ This project follows **semantic versioning** where applicable.
 - Draft of *AI Architecture Canvas — Guide for AI Architects (v1.1)*  
 - Expanded documentation and templates  
 - Contribution guidelines  
+### Updated
+- Unified project license to **CC BY-NC-SA 4.0**  
+- Added author contact and repository links for transparency  
 
 ---
 
@@ -17,6 +20,6 @@ This project follows **semantic versioning** where applicable.
 ### Added
 - Initial release of *AI Architecture Canvas – Project Edition (v1.0)*  
 - Nine-block framework and baseline documentation  
-- PNG image and CC BY-SA 4.0 license  
+- PNG image and **CC BY-NC-SA 4.0** license  
 - GitHub project structure initialized  
 

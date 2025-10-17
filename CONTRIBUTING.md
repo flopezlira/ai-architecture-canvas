@@ -22,7 +22,7 @@ All pull requests are reviewed for clarity, accuracy, and tone before merging.
 - Reference **standards** when relevant (ISO/IEC 42010, 23894, CRISP-ML(Q), EU AI Act, etc.).  
 - Maintain a **neutral, professional tone** — this is a community reference, not marketing.  
 - Avoid sharing proprietary code or data.  
-- All contributions must remain under the same license (**CC BY-SA 4.0**).
+- All contributions must remain under the same license (**CC BY-NC-SA 4.0**).
 
 ---
 

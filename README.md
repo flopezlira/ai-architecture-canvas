@@ -1,6 +1,6 @@
 # 🧠 AI Architecture Canvas — Open Framework for Trustworthy AI Systems  
 *by Francisco López-Lira*  
-**License:** CC BY-SA 4.0  
+**License:** CC BY-NC-SA 4.0  
 
 ---
 
@@ -83,17 +83,16 @@ All contributions will be shared under the same **CC BY-SA 4.0** license.
 
 | Version | Date | Notes |
 |:--------:|:------|:------|
-| **v1.0** | 2025-10-16 | Public release of the AI Architecture Canvas |
+| **v1.0** | 2025-10-18 | Public release of the AI Architecture Canvas |
 | **v1.1** | (in progress) | Expanded Guide for AI Architects |
 
 ---
 
 ## 🌐 Related Resources
-- [Medium Article – *The AI Architecture Canvas: A Common Language for Building Responsible AI*](https://medium.com/@flopezlira)  
 - [Author Profile](https://medium.com/@flopezlira)  
-- [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/)  
+- [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 ---
 
-> “Architecture isn’t just about how AI works — it’s about how AI behaves in the world.”
+> “Architecture isn’t just about how AI works — it’s about AI's fitness for purpose.”
 
